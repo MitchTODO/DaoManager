@@ -1,0 +1,13 @@
+{
+  "LSPProposal":{
+    "title":"Arrays in LSP-2-ERC725YJSONSchema should be using hex for element keys.",
+    "description":"Using hex will allow more... alot more elements",
+    "choices":[
+      {"title":"Use hex"},
+      {"title":"Dont use hex"}
+    ],
+    "links":[],
+    "tags":["Hex","More is better"],
+
+  }
+}

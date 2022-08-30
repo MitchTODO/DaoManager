@@ -1,0 +1,29 @@
+
+[
+  {
+    "name": "Proposal[]",
+    "key": "0xbf714efe0aa19460b74619462212add6930bba1cd2614bd53cbe4b05b77ecaaf",
+    "keyType": "Array",
+    "valueType": "bytes32",
+    "valueContent": "Number"
+  },
+
+  {
+    "name": "Votes:<bytes32>",
+    "key": "0xbf714efe0aa19460b74619462212add6930bba1cd2614bd53cbe4b05b77ecaaf",
+    "keyType": "Mapping",
+    "valueType": "uintN",
+    "valueContent": "Number"
+  },
+
+
+  {
+    "name": "Proposal[]:Votes:<address>",
+    "key": "0xbf714efe0aa19460b746000092219ee96aecd093a5b317e7ada62d68a74f302f",
+    "keyType": "MappingWithGrouping",
+    "valueType": "uintN",
+    "valueContent": "Number"
+  }
+
+
+]
