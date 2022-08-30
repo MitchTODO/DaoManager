@@ -1,5 +1,5 @@
 
-export const DaoManagerAddress = "0x06df590A32e581e626ffAf8D696831521964b29c"
+export const DaoManagerAddress = "0x0457b73eb41f2c67344f287574E99DFa9806FB13"
 
 // L16 "0x0457b73eb41f2c67344f287574E99DFa9806FB13"
 
